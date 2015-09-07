@@ -229,6 +229,8 @@ initHomeProxy = (callback) ->
         "userpreference": "authorized"
         "cozyinstance": "authorized"
         "encryptedkeys": "authorized"
+        "bank": "authorized"
+        "bankaccount": "authorized"
         "stackapplication": "authorized"
         "send mail to user": "authorized"
         "send mail from user": "authorized"
